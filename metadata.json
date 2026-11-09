@@ -1,0 +1,6 @@
+{
+  "name": "Ciudad en Proyecto",
+  "description": "Experiencia de orientación vocacional de Ingeniería Civil · Universidad Anáhuac México Campus Norte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
